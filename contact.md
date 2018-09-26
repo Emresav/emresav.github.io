@@ -9,10 +9,15 @@ is_contact: true
 
 ## Mailing Address
 > King's College London
+
 > Bush House, Strand Campus
+
 > Room (N) 6.10, Department of Informatics
+
 > 30 Aldwych
+
 > London
+
 > WC2B 4BG
 
 ---
