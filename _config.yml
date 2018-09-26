@@ -1,6 +1,6 @@
 title: Emre Savas
 url: "https://emresav.github.io"
-baseurl: "/researcher"
+baseurl: "/researcher/"
 
 markdown: kramdown
 
