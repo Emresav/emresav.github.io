@@ -18,9 +18,12 @@ I am particularly interested in AI planning applications in robotic and manufact
 
 2. Emre Savas, Chiara Piacentini. [Extending a MILP Compilation for Numeric Planning Problems to Include Control Parameters](https://kclpure.kcl.ac.uk/portal/files/101130585/CP2018_workshop_1_.pdf). *Constraints and AI Planning Workshop of the 24th International Conference on Principles and Practice of Constraint Programming (CP 2018)*, 2018
 
-3. Amanda Coles, Andrew Coles, Moises Martinez, Emre Savas, Juan Manuel Delfa, Tomas de la Rosa, Yolanda E-Martin, Angel Garcia-Olaya. Efficiently Reasoning with Interval Constraints in Forward Search Planning, *AAAI 2019*, under revision
+<!--- 3. Amanda Coles, Andrew Coles, Moises Martinez, Emre Savas, Juan Manuel Delfa, Tomas de la Rosa, Yolanda E-Martin, Angel Garcia-Olaya. Efficiently Reasoning with Interval Constraints in Forward Search Planning, *AAAI 2019*, under revision
+--->
 
-4. Emre Okkes Savas. Dissertation Abstract. *International Conference on Automated Planning and Scheduling Doctoral Consortium (ICAPS 2016)*, 2016
+3. Jorge Ocón, Francisco Colmenero, Joaquín Estremera, Karl Buckley, Mercedes Alonso, Enrique Heredia, Javier Garcia, Andrew Ian Coles, Amanda Jane Coles, Moises Martinez Munoz, Okkes Emre Savas, Florian Pommerening, Thomas Keller, Spyros Karachalios, Mark Woods, Iulia Dragomir, Saddek Bensalem, Pierre Dissaux, Arnaud Schach. [The ERGO framework and Its Use in Planetary/Orbital Scenarios](https://kclpure.kcl.ac.uk/portal/en/publications/the-ergo-framework-and-its-use-in-planetaryorbital-scenarios(ad3d6117-56c4-42bf-90d6-c1f25db897e0).html). *Proceedings of the 69th International Astronautical Congress (IAC)*, 2018
+
+4. Emre Okkes Savas. [Dissertation Abstract](http://icaps16.icaps-conference.org/proceedings/dc/dc16.pdf#page=61). *International Conference on Automated Planning and Scheduling Doctoral Consortium (ICAPS 2016)*, 2016
 
 5. Emre Okkes Savas, Maria Fox, Derek Long, and Daniele Magazzeni. Task Planning with Control Parameters. *In Proceedings of the 33rd Workshop of the UK Planning and Scheduling Special Interest Group (PlanSIG 2016)*, 2016
 
@@ -53,4 +56,4 @@ Year of Award | Degree | University
 
 ---
 
-> I got something that makes me want to shout, I got something that tells me what it's all about.
+> *"I got something that makes me want to shout, I got something that tells me what it's all about. I'm superbad!"* -- James Brown.
