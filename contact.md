@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [emresavas89_at_hotmail_dot_com](mailto:emresavas89@hotmail.com)
+* Email: emresavas89_at_hotmail_dot_com
 
 ---
 
