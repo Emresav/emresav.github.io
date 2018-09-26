@@ -12,6 +12,22 @@ Hello. I am working as a Research Associate in the [Department of Informatics](h
 
 I am particularly interested in AI planning applications in robotic and manufacturing applications in temporal and numeric settings. I have defended my thesis, **Temporal-Numeric Planning with Control Parameters** on June 2018. During my PhD studies, I have extended a standardised planning language, *PDDL*, to reason about flexible numeric parameters (we called them *Control Parameters*) that can take their values from considerably large-sized domains. I have developed an AI planning software, called **POPCORN**, that can reason about these parameters. My motivation on this work was to model and encapsulate controllable dynamics of the real-world environment in AI planning frameworks. I successfully applied this planning paradigm as a case study on a Task and Motion Planning (TAMP) application as a part of the EU-Funded [SQUIRREL](http://www.squirrel-project.eu/) Project.
 
+## Softwares
+You can find the source code of the POPCORN planner and the MILP compilation work that I collaborated with Chiara Piacentini [on my GitHub repository](https://github.com/Emresav/popcorn). You can also access the Scala and Java template codes that I commonly use on [here](https://github.com/Emresav/).
+
+---
+## Education
+
+Here is my decade-long higher education list. 
+
+Year of Award | Degree | University
+--------------|--------|--------------
+2018 | PhD in Computer Science | King's College London
+2014 | MSc in Engineering with Management | King's College London
+2013 | BSc in Industrial Engineering | Istanbul Technical University
+2013 | BSc in Ind. and Manuf. Engineering | Southern Illinois University Edwardsville
+
+---
 ## Publications
 
 1. Emre Savas, Maria Fox, Derek Long, and Daniele Magazzeni. [Planning Using Actions with Control Parameters](https://kclpure.kcl.ac.uk/portal/files/56331945/FAIA285_1185.pdf). *In Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016)*, 2016
@@ -28,25 +44,6 @@ I am particularly interested in AI planning applications in robotic and manufact
 
 <!--- 3. Amanda Coles, Andrew Coles, Moises Martinez, Emre Savas, Juan Manuel Delfa, Tomas de la Rosa, Yolanda E-Martin, Angel Garcia-Olaya. Efficiently Reasoning with Interval Constraints in Forward Search Planning, *AAAI 2019*, under revision
 --->
----
-
-## Softwares
-
-You can find the source code of the POPCORN planner and the MILP compilation work that I collaborated with Chiara Piacentini [on my GitHub repository](https://github.com/Emresav/popcorn). You can also access the Scala and Java template codes that I commonly use on [here](https://github.com/Emresav/).
-
----
-
-## Education
-
-Here is my decade-long higher education list. 
-
-Year of Award | Degree | University
---------------|--------|--------------
-2018 | PhD in Computer Science | King's College London
-2014 | MSc in Engineering with Management | King's College London
-2013 | BSc in Industrial Engineering | Istanbul Technical University
-2013 | BSc in Ind. and Manuf. Engineering | Southern Illinois University Edwardsville
-
 ---
 
 ## PhD Supervisors
