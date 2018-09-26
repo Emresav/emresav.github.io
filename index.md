@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="emre.jpg">
 
-Hello. I am working as a Research Associate at King's College London (KCL). My ongoing project is European Robotic Goal-Oriented [ERGO](http://h2020-ergo.gmv.com/author/ergo/) Autonomous Controller Project. I actively work on the development of an AI planning software, called *Stellar*, to be run on-board autonomous spacecraft that will be launched by the *European Space Agency (ESA)*. I also manage the integration tests of Stellar with the rest of robotic components on simulation and physical environments. 
+Hello. I am working as a Research Associate at King's College London (KCL). My ongoing project is the European Robotic Goal-Oriented [ERGO](http://h2020-ergo.gmv.com/author/ergo/) Autonomous Controller Project. I actively work on the development of an AI planning software, called *Stellar*, to be run on-board autonomous spacecraft that will be launched by the *European Space Agency (ESA)*. I also manage the integration tests of Stellar with the rest of robotic components on simulation and physical environments. 
 
 ## Research Interest
 
@@ -14,9 +14,9 @@ I am particularly interested in AI planning applications in robotic and manufact
 
 ## Publications
 
-1. Emre Savas, Maria Fox, Derek Long, and Daniele Magazzeni. Planning Using Actions with Control Parameters. *In Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016)*, 2016
+1. Emre Savas, Maria Fox, Derek Long, and Daniele Magazzeni. [Planning Using Actions with Control Parameters](https://kclpure.kcl.ac.uk/portal/files/56331945/FAIA285_1185.pdf). *In Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016)*, 2016
 
-2. Emre Savas, Chiara Piacentini. Extending a MILP Compilation for Numeric Planning Problems to Include Control Parameters. *Constraints and AI Planning Workshop of the 24th International Conference on Principles and Practice of Constraint Programming (CP 2018)*, 2018
+2. Emre Savas, Chiara Piacentini. [Extending a MILP Compilation for Numeric Planning Problems to Include Control Parameters](https://kclpure.kcl.ac.uk/portal/files/101130585/CP2018_workshop_1_.pdf). *Constraints and AI Planning Workshop of the 24th International Conference on Principles and Practice of Constraint Programming (CP 2018)*, 2018
 
 3. Amanda Coles, Andrew Coles, Moises Martinez, Emre Savas, Juan Manuel Delfa, Tomas de la Rosa, Yolanda E-Martin, Angel Garcia-Olaya. Efficiently Reasoning with Interval Constraints in Forward Search Planning, *AAAI 2019*, under revision
 
