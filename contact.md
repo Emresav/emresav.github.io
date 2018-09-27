@@ -21,5 +21,5 @@ is_contact: true
 
 1. [Facebook](https://www.facebook.com/emresavas89)
 2. [Twitter](https://twitter.com/emrezy_)
-3. [Linkedin](https://www.linkedin.com/in/emre-savaş-a745b838/)
+3. [Linkedin](www.linkedin.com/in/emresavas89)
 4. [GitHub](https://github.com/Emresav)
