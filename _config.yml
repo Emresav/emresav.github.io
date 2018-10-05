@@ -21,5 +21,7 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
-
+ - name: "Verification"
+   link: "google9f8cb76d72805cea.html"
+      
 theme: jekyll-theme-minimal
