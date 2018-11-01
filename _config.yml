@@ -8,7 +8,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/emresav"
-footer_text: "This page is created and maintained by myself"
+footer_text: "This page was created and it is maintained by myself"
 
 sass:
     style: compressed
@@ -16,7 +16,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "index"
+   link: "index.md"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
