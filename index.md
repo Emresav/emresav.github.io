@@ -32,17 +32,19 @@ Year of Award | Degree | University
 
 1. Emre Savas, Maria Fox, Derek Long, and Daniele Magazzeni. [Planning Using Actions with Control Parameters](https://kclpure.kcl.ac.uk/portal/files/56331945/FAIA285_1185.pdf). *In Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016)*, 2016
 
-2. Emre Savas, Chiara Piacentini. [Extending a MILP Compilation for Numeric Planning Problems to Include Control Parameters](https://kclpure.kcl.ac.uk/portal/files/101130585/CP2018_workshop_1_.pdf). *Constraints and AI Planning Workshop of the 24th International Conference on Principles and Practice of Constraint Programming (CP 2018)*, 2018
+2. Amanda Coles, Andrew Coles, Moises Martinez, Emre Savas, Juan Manuel Delfa, Tomas de la Rosa, Yolanda E-Martin, Angel Garcia-Olaya. [Efficiently Reasoning with Interval Constraints in Forward Search Planning](https://kclpure.kcl.ac.uk/portal/en/publications/efficiently-reasoning-with-interval-constraints-in-forward-search-planning(572c51ff-d57b-4104-b4a3-11f07517007d).html). *Proceedings of the Thirty Third AAAI Conference on Artificial Intelligence (AAAI 2019)*, 2019
 
-3. Jorge Ocón, Francisco Colmenero, Joaquín Estremera, Karl Buckley, Mercedes Alonso, Enrique Heredia, Javier Garcia, Andrew Ian Coles, Amanda Jane Coles, Moises Martinez Munoz, Okkes Emre Savas, Florian Pommerening, Thomas Keller, Spyros Karachalios, Mark Woods, Iulia Dragomir, Saddek Bensalem, Pierre Dissaux, Arnaud Schach. [The ERGO framework and Its Use in Planetary/Orbital Scenarios](https://kclpure.kcl.ac.uk/portal/en/publications/the-ergo-framework-and-its-use-in-planetaryorbital-scenarios(ad3d6117-56c4-42bf-90d6-c1f25db897e0).html). *Proceedings of the 69th International Astronautical Congress (IAC)*, 2018
+3. Emre Savas, Chiara Piacentini. [Extending a MILP Compilation for Numeric Planning Problems to Include Control Parameters](https://kclpure.kcl.ac.uk/portal/files/101130585/CP2018_workshop_1_.pdf). *Constraints and AI Planning Workshop of the 24th International Conference on Principles and Practice of Constraint Programming (CP 2018)*, 2018
 
-4. Okkes Emre Savas, [Temporal-Numeric Planning with Control Parameters](https://kclpure.kcl.ac.uk/portal/files/101824648/2018_Savas_Okkes_Emre_1345980_ethesis.pdf). *PhD Thesis, King's College London*, 2018 
+4. Jorge Ocón, Francisco Colmenero, Joaquín Estremera, Karl Buckley, Mercedes Alonso, Enrique Heredia, Javier Garcia, Andrew Ian Coles, Amanda Jane Coles, Moises Martinez Munoz, Okkes Emre Savas, Florian Pommerening, Thomas Keller, Spyros Karachalios, Mark Woods, Iulia Dragomir, Saddek Bensalem, Pierre Dissaux, Arnaud Schach. [The ERGO framework and Its Use in Planetary/Orbital Scenarios](https://kclpure.kcl.ac.uk/portal/en/publications/the-ergo-framework-and-its-use-in-planetaryorbital-scenarios(ad3d6117-56c4-42bf-90d6-c1f25db897e0).html). *Proceedings of the 69th International Astronautical Congress (IAC)*, 2018
 
-5. Emre Okkes Savas. [Dissertation Abstract](http://icaps16.icaps-conference.org/proceedings/dc/dc16.pdf#page=61). *International Conference on Automated Planning and Scheduling Doctoral Consortium (ICAPS 2016)*, 2016
+5. Okkes Emre Savas, [Temporal-Numeric Planning with Control Parameters](https://kclpure.kcl.ac.uk/portal/files/101824648/2018_Savas_Okkes_Emre_1345980_ethesis.pdf). *PhD Thesis, King's College London*, 2018 
 
-6. Emre Okkes Savas, Maria Fox, Derek Long, and Daniele Magazzeni. Task Planning with Control Parameters. *In Proceedings of the 33rd Workshop of the UK Planning and Scheduling Special Interest Group (PlanSIG 2016)*, 2016
+6. Emre Okkes Savas. [Dissertation Abstract](http://icaps16.icaps-conference.org/proceedings/dc/dc16.pdf#page=61). *International Conference on Automated Planning and Scheduling Doctoral Consortium (ICAPS 2016)*, 2016
 
-7. Michael Cashmore, Maria Fox, Derek Long, Daniele Magazzeni, Bram Ridder, Emre Savas. ROSPlan: Planning in the Robot Operating System. *In Proceedings of the 6th Italian Workshop on Planning and Scheduling (IPS 2015)*, 2015
+7. Emre Okkes Savas, Maria Fox, Derek Long, and Daniele Magazzeni. Task Planning with Control Parameters. *In Proceedings of the 33rd Workshop of the UK Planning and Scheduling Special Interest Group (PlanSIG 2016)*, 2016
+
+8. Michael Cashmore, Maria Fox, Derek Long, Daniele Magazzeni, Bram Ridder, Emre Savas. ROSPlan: Planning in the Robot Operating System. *In Proceedings of the 6th Italian Workshop on Planning and Scheduling (IPS 2015)*, 2015
 
 <!--- 3. Amanda Coles, Andrew Coles, Moises Martinez, Emre Savas, Juan Manuel Delfa, Tomas de la Rosa, Yolanda E-Martin, Angel Garcia-Olaya. Efficiently Reasoning with Interval Constraints in Forward Search Planning, *AAAI 2019*, under revision
 --->
