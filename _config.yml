@@ -1,0 +1,27 @@
+title: Emre Savas
+url: "https://emresav.github.io"
+baseurl: ""
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/emresav"
+footer_text: "This page is created and maintained by myself"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "index"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
+ - name: " "
+   link: "google9f8cb76d72805cea.html"
+      
+theme: jekyll-theme-minimal
