@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="emre.jpg">
 
-Hello. I am working as a Research Associate in the [Department of Informatics](https://www.kcl.ac.uk/nms/depts/informatics/index.aspx) at [King's College London](https://www.kcl.ac.uk). My ongoing project is the European Robotic Goal-Oriented [ERGO](http://h2020-ergo.gmv.com/author/ergo/) Autonomous Controller Project. I actively work on the development of an AI planning software, called **Stellar**, to be run on-board autonomous spacecraft that will be launched by the *European Space Agency (ESA)*. I also manage the integration tests of Stellar with the rest of robotic components on simulation and physical environments. 
+Hello. I am working as an ML Engineer at Accenture Applied Intelligence UK. Prior to this, I worked as a Research Associate in the [Department of Informatics](https://www.kcl.ac.uk/nms/depts/informatics/index.aspx) at [King's College London](https://www.kcl.ac.uk). Previously, I was in the European Robotic Goal-Oriented [ERGO](http://h2020-ergo.gmv.com/author/ergo/) Autonomous Controller Project. I actively work on the development of an AI planning software, called **Stellar**, to be run on-board autonomous spacecraft that will be launched by the *European Space Agency (ESA)*. I also manage the integration tests of Stellar with the rest of robotic components on simulation and physical environments. 
 
 ## Research Interest
 
